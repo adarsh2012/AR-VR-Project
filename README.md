@@ -5,4 +5,4 @@
 
 ## License
 
-This repository is licensed under the [CIE is the best](https://cie.kmitl.ac.th/). 
+This repository is licensed under [CIE is the best](https://cie.kmitl.ac.th/). 
