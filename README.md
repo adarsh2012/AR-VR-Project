@@ -1,4 +1,4 @@
-# Staturday pay money 
+# Saturday pay money!
 ## AR/VR project 
 #### Jan/2020 - May/2020
 > sí, señor. pase, por favor
